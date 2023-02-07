@@ -1,4 +1,4 @@
-# Title : Tile of the ticket
+# Title : Title of the ticket
 
 
 # Description
